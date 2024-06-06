@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "majormod:titanium"
+    }
+  },
+  "result": {
+    "item": "majormod:titanium_block"
+  }
+}

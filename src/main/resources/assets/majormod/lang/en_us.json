@@ -1,0 +1,13 @@
+{
+  "item.majormod.titanium": "Titanium",
+  "item.majormod.raw_titanium": "Raw Titanium",
+
+  "block.majormod.titanium_block": "Block of Titanium",
+  "block.majormod.raw_titanium_block": "Block of Raw Titanium",
+
+  "block.majormod.titanium_ore": "Titanium Ore",
+  "block.majormod.deepslate_titanium_ore": "Deepslate Titanium Ore",
+  "block.majormod.end_stone_titanium_ore": "Endstone Titanium Ore",
+
+  "creativetab.major_tab": "Titanium Major Tab"
+}
